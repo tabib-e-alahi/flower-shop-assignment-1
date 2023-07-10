@@ -2,3 +2,23 @@
   margin: 0px;
   font-family: "Lato", sans-serif;
 }
+
+.card-title {
+  text-decoration: underline;
+}
+
+.card-img-2-3 {
+  width: 73%;
+}
+.card-img-1 {
+  margin-top: 20px;
+  width: 85%;
+}
+
+.card-1-inner,
+.card-2-inner,
+.card-3-inner {
+  border-radius: 300px 300px 0px 0px;
+  display: flex;
+  justify-content: center;
+}

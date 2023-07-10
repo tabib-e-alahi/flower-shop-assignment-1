@@ -15,5 +15,39 @@
   font-size: 18px;
   font-weight: 400;
   margin-top: 20px;
-  margin-bottom: 30px;
+  margin-bottom: 48px;
+}
+
+/* card styles ============================== */
+
+.feature-card-container {
+  
+ 
+  display: flex;
+  gap: 34px;
+  justify-content: center;
+}
+
+.card-1-inner {
+  background: rgba(5, 151, 160, 0.15);
+  width: 324px;
+  height: 400px;
+  align-items: center;
+}
+
+.card-2-inner {
+  background: rgba(167, 33, 98, 0.15);
+  width: 324px;
+  height: 400px;
+
+  
+  align-items:end;
+}
+
+.card-3-inner {
+  background: rgba(71, 125, 17, 0.15);
+  width: 324px;
+  height: 400px;
+
+  align-items: end;
 }
