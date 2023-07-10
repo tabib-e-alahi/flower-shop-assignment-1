@@ -21,11 +21,11 @@
 /* card styles ============================== */
 
 .feature-card-container {
-  
- 
+ width: 80%;
+ margin: 0px auto;
   display: flex;
-  gap: 34px;
-  justify-content: center;
+  /* gap: 34px; */
+justify-content: space-evenly;
 }
 
 .card-1-inner {
