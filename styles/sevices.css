@@ -1,0 +1,19 @@
+.service-container {
+  margin: 170px auto;
+ 
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  width: 75%;
+  padding: 56px 0px;
+}
+
+
+
+.services-inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

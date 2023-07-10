@@ -1,5 +1,5 @@
 .features-container {
-  margin-top: 170px;
+  margin: 170px auto;
 }
 
 .features-title {
@@ -21,7 +21,7 @@
 /* card styles ============================== */
 
 .feature-card-container {
- width: 80%;
+ width: 86%;
  margin: 0px auto;
   display: flex;
   /* gap: 34px; */
