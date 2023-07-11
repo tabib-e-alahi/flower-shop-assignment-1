@@ -55,3 +55,14 @@ margin-bottom: 18px;
 margin-right: 18px;
 }
 
+.date-class,
+.option-class {
+    padding: 16px 28px;
+ 
+    border-radius: 2px;
+    border: 1px solid #ced4da;
+    background: #fff;
+    margin-bottom: 15px;
+    margin-right: 18px;
+}
+
