@@ -46,7 +46,11 @@
   }
 
 .buy-now {
-  padding: 17px 150px;
-
-  border-radius: 2px;
+  padding: 17px 145px;
+ border: 0px;
+  border-radius: 4px;
+  font-size: 15px;
+  font-weight: 700;
+  color: white;
+  background-color: #E55473;
 }
