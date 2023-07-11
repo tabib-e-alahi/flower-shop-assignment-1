@@ -45,3 +45,13 @@
 }
 
 
+.contact-input-name-email {
+  padding: 16px 12px;
+ 
+border-radius: 2px;
+border: 1px solid #ced4da;
+background: #fff;
+margin-bottom: 18px;
+margin-right: 18px;
+}
+

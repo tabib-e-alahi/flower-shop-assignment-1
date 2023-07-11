@@ -1,0 +1,35 @@
+.extra-section-container {
+  margin: 0px auto;
+  margin-bottom: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+ 
+  
+}
+
+
+.contact-us-container {
+    border: 1px solid black;
+    /* border: 0px; */
+  width: 470px;
+  height: 200px;
+  padding: 56px 45px;
+  background-color: rgba(229, 84, 115, 0.1);
+  background-repeat: no-repeat;
+}
+.contact-title {
+  margin-bottom: 25px;
+}
+
+.conatact-us-marketplace {
+  font-size: 15px;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.date-class {
+  padding: 16px 12px;
+}
