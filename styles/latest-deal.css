@@ -1,0 +1,21 @@
+.latest-deal-container {
+  margin-top: 130px;
+  width: 80%;
+  border-radius: 8px;
+  background: url(../images/Rectangle\ 9.png),
+    lightgray 0px -203.444px / 100% 213.755% no-repeat;
+}
+
+.latest-deal-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.latest-deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
